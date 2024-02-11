@@ -1,0 +1,28 @@
+const colors = {
+    primary: '#FAE34D',
+    btnBack: '#08A4A4',
+    white: '#FFFFFF',
+    black: '#191818',
+    grey: '#868686',
+    primarydark: "#D46002",
+    blackdark: "#00000",
+    inputColorP: "#111111",
+    grey2: "#D9D8D6",
+    newGrey: '#CFCFCF',
+    menbg: "#D08962",
+    inputBorder: '#4F4F4F',
+    red: '#EF1A1A',
+    green: '#00891E',
+    greyNoti: '#F4F4F4',
+    modalBg: '#00000095',
+    brownColo: '#A44E00',
+    // drakGreen: '#0F542B',
+    // orange: '#FF9900',
+    // bgTab: '#007638',
+    // blue: '#0C05A7',
+    // inputColo: '#F6F9FF91',
+    // headerTitleColo: '#616163',
+    // cardColo: '#F2F2F2',
+};
+
+export default colors;

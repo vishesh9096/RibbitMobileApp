@@ -1,0 +1,17 @@
+import React from "react";
+import { StyleSheet } from "react-native";
+import { Utils } from "../contants";
+
+
+const Styles = StyleSheet.create({
+    container: {
+        flex: 1,
+        resizeMode:"contain",
+        height:Utils.ScreenHeight(8),
+        width:"100%",
+        justifyContent:"center"
+    },
+
+});
+
+export default Styles;
